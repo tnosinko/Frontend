@@ -1,0 +1,4 @@
+< h1 class ="heading"> Мой простой сайт </h1>
+.heading::before {
+    color: blue;
+}
